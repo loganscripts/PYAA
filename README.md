@@ -22,7 +22,7 @@ This project allows you to control a robotic arm using a glove fitted with flex 
 - **Jumper Wires & Resistors**
 
 ## Wiring Diagram
-(See `Hardware/wiring_diagram.png`)
+(See `Hardware/wiring_diagram.md`)
 
 ## License
 This project is open-source under the MIT License.
